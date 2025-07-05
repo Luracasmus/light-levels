@@ -4,4 +4,6 @@
 
 Colors different [light levels](https://minecraft.fandom.com/wiki/Light#Mobs) (0, 7, 11) so you know where to put light sources to prevent mob spawning.
 
+Implemented using custom lightmaps
+
 When using [OptiFine](https://optifine.net/home), requires: Custom Colors: ON, Smooth Lighting: OFF, Dynamic Lights: OFF
